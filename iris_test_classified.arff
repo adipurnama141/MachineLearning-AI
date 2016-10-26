@@ -1,0 +1,12 @@
+@relation iris_predicted
+
+@attribute sepallength numeric
+@attribute sepalwidth numeric
+@attribute petallength numeric
+@attribute petalwidth numeric
+@attribute 'prediction margin' numeric
+@attribute 'predicted class' {Iris-setosa,Iris-versicolor,Iris-virginica}
+@attribute class {Iris-setosa,Iris-versicolor,Iris-virginica}
+
+@data
+1,1,1,1,-0.979167,Iris-versicolor,?

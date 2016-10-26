@@ -1,0 +1,1 @@
+javac -cp C:\Java\weka\weka.jar WekaTest.java
